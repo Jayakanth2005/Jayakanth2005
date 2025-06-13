@@ -9,3 +9,7 @@ About Me 🔧 I'm a passionate backend developer focused on creating innovative 
 🧠 Scaling real-time systems for energy or sports auction apps --- ### 💬 Ask Me About - 📊 Renewable energy visualization using 3D & GIS - 🧮 Real-time auction logic and flow optimization - 🏛️ Platforms that promote transparency, accountability, and community engagement ---
 
 ⚡ Fun Fact I love merging technology and ethics—whether it’s powering rooftops with sunlight, decoding city pipe leaks, or even automating mass unfollow actions to clean up social feeds. 👊🌍
+
+
+https://www.linkedin.com/in/jayakanth-sivakumar-434851257/
+https://www.instagram.com/jayakanth__sivakumar/?next=%2F
