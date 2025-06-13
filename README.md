@@ -4,7 +4,7 @@
 
 🛠️ Building platforms that drive Social Accountability like complaint management & public data dashboards --- 🧠 
 
-**Currently Learning** - 🌐 Advanced backend strategies for real-time apps using **Flask, Firebase, Nodejs and API integrations** - ☀️ Solar & weather data analysis for smarter energy predictions - ⚙️ Optimizing scalable backends for apps like Renewify and BIPV ---
+**Currently Learning** - 🌐 Advanced backend strategies for real-time apps using **Django, Flask, Firebase, Nodejs and API integrations** - ☀️ Solar & weather data analysis for smarter energy predictions - ⚙️ Optimizing scalable backends for apps like Renewify and BIPV ---
 
 **🤝 I’m Open to Collaborate On** - 🌀 APIs or Firebase-integrated platforms - 🔋 Renewable Energy & Environmental Data Platforms - 📱 **Complaint Management Systems** for smart cities or communities - ⚡ Tools that enhance civic engagement or automate social impact workflows ---
 
@@ -16,5 +16,8 @@
 Linkedin: https://www.linkedin.com/in/jayakanth-sivakumar-434851257/
 
 Instagram: https://www.instagram.com/jayakanth__sivakumar/?next=%2F
+
+
+
 
 
